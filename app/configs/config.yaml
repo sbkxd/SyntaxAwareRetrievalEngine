@@ -1,0 +1,13 @@
+dataset_path: "app/data/raw_rulebooks"
+
+processed_data_path: "app/data/processed_rulebooks"
+
+chunked_data_path: "app/data/chunked_rulebooks"
+
+faiss_index_path: "app/vectorstores/faiss_index"
+
+embedding_cache_path: "app/vectorstores/embedding_cache"
+
+top_k: 5
+
+embedding_dimension: 300

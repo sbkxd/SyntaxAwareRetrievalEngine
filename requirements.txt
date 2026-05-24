@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+faiss-cpu
+gensim
+nltk
+spacy
+sentence-transformers
+google-generativeai
+matplotlib
+plotly
+openpyxl
+PyPDF2
+pyyaml
+tqdm
